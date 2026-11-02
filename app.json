@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Freestyle", "slug": "freestyle", "version": "0.1.0",
+    "orientation": "portrait", "userInterfaceStyle": "dark",
+    "ios": {"supportsTablet": false, "bundleIdentifier": "com.onyxuz666.freestyle", "infoPlist": {"NSMicrophoneUsageDescription": "Freestyle records your voice to create musical loops."}},
+    "plugins": ["expo-dev-client"]
+  }
+}
